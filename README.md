@@ -22,10 +22,16 @@ Here are some ideas to get you started:
 
 # 🐙 Sobre mim
 Estudante de ciência da computaçã pela **C.E.S.A.R SCHOOL** , finaizando (atualmente) o primeiro período, econtro-me desenvolvendo sobre as mais diversas áreas de atuação, cntendo pincipalmento projeto em **_python_** e **_javascriptt_**
+
+
 > [!NOTE]
 > UM DE MEUS PRINCIPAIS PROJETOS INDIVIDUAIS É UM AUDIO BOOK SOBRE DOM CASMURRO
+
+
+
 
 > [!TIP]
 > MEUS PRINCIPAIS PROJETOS SERÃO LIKADOS AQUI
 
 
+// uso de markdown e finalizar o read me
