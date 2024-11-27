@@ -36,7 +36,7 @@ __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos 
 > MEUS PRINCIPAIS PROJETOS SERÃO LIKADOS AQUI
 
 
-## 💻 Tecnologias
+## 💻 Meus links:
 
 ## 📖 Sobre
 
