@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 # 🐙 Sobre mim
-Estudante de ciência da computaçã pela **C.E.S.A.R SCHOOL** , finaizando (atualmente) o primeiro período, econtro-me desenvolvendo sobre as mais diversas áreas de atuação, cntendo pincipalmento projeto em **_python_** e **_javascriptt_**
+Estudante de ciência da computação pela **C.E.S.A.R SCHOOL** , finalizando (atualmente) o primeiro período, encontro-me desenvolvendo sobre as mais diversas áreas de atuação, contendo principalmente projetos em **_python_** e **_javascriptt_**
 
 __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos principais pontos da minha cidade, usando o C do arduino, assim nosso objetivo e fazer uma pesquisa criativa e divertida para filtrar e captar o estado emocional da população que está atravessando aquele determinado ponto da cidade.__
 
