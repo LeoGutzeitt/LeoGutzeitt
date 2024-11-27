@@ -38,6 +38,14 @@ __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos 
 
 ## 💻 Meus links:
 
+linkdin
+
+discord
+
+pagina web
+
+git
+
 ## 📖 Sobre
 
 
