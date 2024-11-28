@@ -39,9 +39,7 @@ __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos 
 ## 💻 Meus links:
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/86522332-9ceb-4415-af9c-e3e5aa811158" height="40" alt="python logo"  />
-  <img width="12"/>
-  <a href="[https://www.youtube.com](https://www.linkedin.com/in/leogutzeit/)" class="button">linkdIn</a>
+  <a href="https://www.linkedin.com/in/leogutzeit/" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/86522332-9ceb-4415-af9c-e3e5aa811158" target="_blank"></a>
 <div\></td>
 
 <div align="left">
@@ -49,8 +47,6 @@ __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos 
   <img width="12" />
   <a href="http://127.0.0.1:5500/index.html" class="button">MEU PORTIFOLIO</a>
 <div\></td>
-
-
 
 
 ## 📖 Sobre
