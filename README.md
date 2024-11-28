@@ -43,7 +43,7 @@ __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos 
 <div\></td>
 
 <div align="left">
-  <a href=http://127.0.0.1:5500/index.html" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/5d94ef02-be1a-48d3-aded-287562898771" target="_blank"  width="30"></a>
+  <a href="http://127.0.0.1:5500/index.html" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/5d94ef02-be1a-48d3-aded-287562898771" target="_blank"  width="30"></a>
 <div\></td>
 
 
