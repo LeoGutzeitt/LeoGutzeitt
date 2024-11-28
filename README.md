@@ -44,14 +44,10 @@ __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos 
 <div\></td>
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/0c88970b-4dcc-4caed23ae7a-81e5-f12fa](http://127.0.0.1:5500/index.html" height="40" alt="python logo"  />
-  <img width="12" />
-<div\></td>
-
-<div align="left">
   <img src="https://github.com/user-attachments/assets/5d94ef02-be1a-48d3-aded-287562898771" height="40" alt="python logo"  />
   <img width="12" />
 <div\></td>
+
 
 
 
