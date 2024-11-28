@@ -39,11 +39,11 @@ __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos 
 ## 💻 Meus links:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/leogutzeit/" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/86522332-9ceb-4415-af9c-e3e5aa811158" target="_blank" ></a>
+  <a href="https://www.linkedin.com/in/leogutzeit/" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/86522332-9ceb-4415-af9c-e3e5aa811158" target="_blank" width="30"></a>
 <div\></td>
 
 <div align="left">
-  <a href=http://127.0.0.1:5500/index.html" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/5d94ef02-be1a-48d3-aded-287562898771" target="_blank"  width="12"></a>
+  <a href=http://127.0.0.1:5500/index.html" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/5d94ef02-be1a-48d3-aded-287562898771" target="_blank"  width="30"></a>
 <div\></td>
 
 
