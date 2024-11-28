@@ -40,7 +40,8 @@ __- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos 
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/86522332-9ceb-4415-af9c-e3e5aa811158" height="40" alt="python logo"  />
-  <img width="12" href ="https://www.youtube.com"/>
+  <img width="12"/>
+  <a href = "https://www.youtube.com">
 <div\></td>
 
 <div align="left">
