@@ -3,13 +3,14 @@
 
 # 🐙 Sobre mim
 
-Atualmente, trabalho como **Desenvolvedor Full Stack na Secretaria de Cultura de Pernambuco** e sou estudante de Ciência da Computação pela **C.E.S.A.R SCHOOL**. Encontro-me desenvolvendo soluções nas mais diversas áreas, com foco em eficiência e otimização de código. 
+Atualmente, trabalho como **Desenvolvedor Full Stack na Secretaria de Cultura de Pernambuco** e sou estudante de Ciência da Computação (cursando o 5º período) pela **C.E.S.A.R SCHOOL**. Encontro-me desenvolvendo soluções nas mais diversas áreas, com foco em eficiência e otimização de código. 
 
 Minhas maiores especialidades são **React** e **WordPress**, mas também possuo forte experiência no desenvolvimento com **Java, C, Python e JavaScript**. Além disso, sou um entusiasta de Inteligência Artificial: já concluí mais de 3 cursos focados em **IA e Engenharia de Prompt**, aplicando esses conhecimentos para acelerar e otimizar o fluxo de trabalho (*vibe code*).
 
 ---
 
 ### 🔭 O que estou desenvolvendo no momento:
+- 🚀 **S.C.O.U.T (Potencial Startup):** Uma iniciativa pessoal em conjunto com amigos focada em **análise de dados, prevenção de lesões e melhoria de unidades de treino**. Neste projeto de composição acadêmica, utilizo *hard* e *soft skills*, atuando no gerenciamento do grupo e na liderança de iniciativas integradas de hardware e software.
 - 🌳 **Árvore Emocional:** Um projeto utilizando `C` com Arduino que atuará nos principais pontos da minha cidade. O objetivo é realizar uma pesquisa criativa e divertida para filtrar e captar o estado emocional da população.
 - 📖 **Audiobook de Dom Casmurro:** Um dos meus principais projetos individuais unindo tecnologia e literatura.
 
@@ -50,6 +51,7 @@ Aqui estão as principais ferramentas e linguagens com as quais tenho experiênc
 ### Experiência Prática (Resumo)
 | Tecnologia / Área | O que já desenvolvi |
 | :--- | :--- |
+| **Inovação & Gestão** | Cofundador da S.C.O.U.T (startup focada em análise de dados e prevenção de lesões esportivas), aplicando *soft skills* no gerenciamento de equipes e integração de hardware/software. |
 | **IA & Engenharia de Prompt** | Certificações na área; foco em otimização de fluxos de desenvolvimento. |
 | **Desenvolvimento Web** | Atuação Full Stack na Secretaria de Cultura de PE; construção de páginas, estilos e arquitetura de projetos com React, WP, HTML e CSS. |
 | **Python & Dados** | Manipulação de dados, instruções básicas, operações CRUD e manipulação de arquivos. |
