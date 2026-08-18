@@ -1,88 +1,57 @@
-## Hi there 👋
-
-<!--
-**LeoGutzeitt/LeoGutzeitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # LEONARDO GUTZEIT BORGMANN MATOS
-## ALUNO CESAR SCHOOL🪐
-
-
+## Desenvolvedor Full Stack | Estudante de Ciência da Computação na CESAR SCHOOL 🪐
 
 # 🐙 Sobre mim
-Estudante de ciência da computação pela **C.E.S.A.R SCHOOL** , finalizando (atualmente) o primeiro período, encontro-me desenvolvendo sobre as mais diversas áreas de atuação, contendo principalmente projetos em **_python_** e **_javascriptt_**
 
-__- 🔭 atualmente estou desenvolvendo uma árvore emocional que vai atuar nos principais pontos da minha cidade, usando o C do arduino, assim nosso objetivo e fazer uma pesquisa criativa e divertida para filtrar e captar o estado emocional da população que está atravessando aquele determinado ponto da cidade.__
+Atualmente, trabalho como **Desenvolvedor Full Stack na Secretaria de Cultura de Pernambuco** e sou estudante de Ciência da Computação pela **C.E.S.A.R SCHOOL**. Encontro-me desenvolvendo soluções nas mais diversas áreas, com foco em eficiência e otimização de código. 
 
+Minhas maiores especialidades são **React** e **WordPress**, mas também possuo forte experiência no desenvolvimento com **Java, C, Python e JavaScript**. Além disso, sou um entusiasta de Inteligência Artificial: já concluí mais de 3 cursos focados em **IA e Engenharia de Prompt**, aplicando esses conhecimentos para acelerar e otimizar o fluxo de trabalho (*vibe code*).
 
-> [!NOTE]
-> -- UM DE MEUS PRINCIPAIS PROJETOS INDIVIDUAIS É UM AUDIO BOOK SOBRE DOM CASMURRO
+---
 
-
-
+### 🔭 O que estou desenvolvendo no momento:
+- 🌳 **Árvore Emocional:** Um projeto utilizando `C` com Arduino que atuará nos principais pontos da minha cidade. O objetivo é realizar uma pesquisa criativa e divertida para filtrar e captar o estado emocional da população.
+- 📖 **Audiobook de Dom Casmurro:** Um dos meus principais projetos individuais unindo tecnologia e literatura.
 
 > [!TIP]
-> MEUS PRINCIPAIS PROJETOS SERÃO LIKADOS AQUI
+> **MEUS PRINCIPAIS PROJETOS ESTARÃO LINKADOS AQUI NO GITHUB!** Fique à vontade para explorar meus repositórios.
 
+---
 
-## 💻 Meus links:
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/leogutzeit/" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/86522332-9ceb-4415-af9c-e3e5aa811158" target="_blank" width="30"></a>
-<div\></td>
+## 💻 Meus links
 
 <div align="left">
-  <a href="http://127.0.0.1:5500/index.html" target="_blank"><img loading="lazy" src="https://github.com/user-attachments/assets/5d94ef02-be1a-48d3-aded-287562898771" target="_blank"  width="30"></a>
-<div\></td>
+  <a href="https://www.linkedin.com/in/leogutzeit/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <!-- Lembre-se de trocar o link abaixo pela URL real do seu site hospedado (ex: GitHub Pages, Vercel) -->
+  <a href="COLOQUE_AQUI_O_LINK_DO_SEU_SITE_HOSPEDADO" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  </a>
+</div>
 
+<br>
 
-## 📖 Sobre
+## 🛠️ Tecnologias e Habilidades
 
+Aqui estão as principais ferramentas e linguagens com as quais tenho experiência e me sinto confortável em trabalhar:
 
+### Principais Competências
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/Engenharia_de_Prompt-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
 
+### Linguagens
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<table>
-  <tr>
-    <th>LINGUAGENS</th>
-    <th>O QUE EU SEI:</th>
-  </tr>
-  <tr>
-    <td><div align="left">
-  <img src="https://github.com/user-attachments/assets/0c88970b-4dcc-4cae-81e5-f12fad23ae7a" height="40" alt="python logo"  />
-  <img width="12" />
-<div\></td>
-    <td>manipulação de dados, instruções basicas, CRUD e manipulação de arquivo</td>
-  </tr>
-  <tr>
-    <td><div align="left">
-  <img src="https://github.com/user-attachments/assets/b779e10d-a6a8-4f58-99d3-1da305585f96" height="40" alt="HTML logo"  />
-  <img width="12" />
-<div\></td>
-    <td>fiz um audiobook, tenho um curso na cisco, certificado e fiz um chatbot</td>
-  </tr>
-  <tr>
-    <td><div align="left">
-  <img src="https://github.com/user-attachments/assets/3b206353-152c-498f-aebf-89e5297d7742" height="40" alt="HTML logo"  />
-  <img width="12" />
-<div\></td>
-    <td>fiz algumas paginas em html, além de uma pagina pessoal e todos os styles e estruturas dos meus projetos que estão neste github</td>
-  </tr>
-  <tr>
-    <td><div align="left">
-  <img src="https://github.com/user-attachments/assets/6f0e320c-fbb8-415b-b775-5b010a193e7e" height="40" alt="HTML logo"  />
-  <img width="12" />
-<div\></td>
-    <td>Arduino e fiz um jogo da velha</td>
-  </tr>
-</table> 
+### Experiência Prática (Resumo)
+| Tecnologia / Área | O que já desenvolvi |
+| :--- | :--- |
+| **IA & Engenharia de Prompt** | Certificações na área; foco em otimização de fluxos de desenvolvimento. |
+| **Desenvolvimento Web** | Atuação Full Stack na Secretaria de Cultura de PE; construção de páginas, estilos e arquitetura de projetos com React, WP, HTML e CSS. |
+| **Python & Dados** | Manipulação de dados, instruções básicas, operações CRUD e manipulação de arquivos. |
+| **Sistemas Embarcados** | Projetos com Arduino (C), incluindo a "Árvore Emocional" e jogos clássicos (Jogo da Velha). |
+| **Chatbots & Redes** | Criação de chatbots e certificações em redes pela Cisco. |
